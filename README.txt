@@ -1,14 +1,13 @@
-NAELIQ policy site
+NAELIQ Support Page Patch
 
-앱 실제 테마 색상:
-accent #B2E08C
-accentStrong #74A84B
-accentSoft #EEF8E5
-canvas #FCFDFB
-ink #171A16
+GitHub의 naeliq-policy 저장소 루트에
+이 ZIP 안의 'support' 폴더를 그대로 업로드하세요.
 
-Vercel 배포 후 연결할 주소:
-https://naeliq.app/
-https://naeliq.app/privacy/
-https://naeliq.app/terms/
-https://naeliq.app/delete-account/
+최종 경로:
+support/index.html
+
+배포 후:
+https://naeliq.app/support/
+
+GitHub Commit Summary:
+Add NAELIQ support page
